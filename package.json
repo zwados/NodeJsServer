@@ -1,0 +1,17 @@
+{
+  "name": "nodehttp",
+  "version": "1.0.0",
+  "description": "Node HTTP exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "http",
+    "exercise"
+  ],
+  "author": "Łukasz Rozwadowski",
+  "license": "ISC"
+}
